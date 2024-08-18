@@ -1,4 +1,4 @@
-// Elements
+// Elementss
 const betAmount = document.getElementById("bet-amount")
 const betButton = document.getElementById("bet-button");
 const multiplier = document.getElementById("counter");
